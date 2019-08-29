@@ -1,3 +1,38 @@
 #container{
 	border: 1px solid #000;
+	padding: 5px;
+}
+
+#cabecalho{
+	border: 1px solid #000;
+	margin: 5px;
+	text-align: center;
+}
+
+#menu{
+	border: 1px solid #000;
+	margin: 5px;
+}
+
+#menu ul{
+	list-style: none;
+}
+
+#menu ul li{
+	border: 1px solid pink;
+	display: inline;
+}
+
+#main{
+	border: 1px solid #000;
+	margin: 15px 25px 15px 25px;
+	/*margin-top: 15px;
+	margin-bottom: 15px;
+	margin-right: 25px;
+	margin-left: 25px;*/
+}
+
+#rodape{
+	border: 1px solid #000;
+	margin: 5px;
 }
